@@ -1,0 +1,48 @@
+.required:after{content:' *';} 
+
+.contact-us p{
+                padding:4px 0;
+                margin:0;
+}
+
+.contact-us label {
+    display:block;
+    padding-bottom:5px;
+    margin-top:12px;
+}
+
+.contact-us ul{
+                margin:0;
+                padding:0;
+}
+.contact-us li {
+    list-style:none;
+    margin:0;
+    padding-bottom: 0 0 20px;
+
+}
+
+.contact-us input[type="text"] {
+    padding:5px 0 0 5px;
+    height:27px;
+    width: 90%;
+    margin: 0;
+}
+
+.contact-us li textarea {
+    padding:5px 0 0 5px;
+    height:110px;
+    width: 98%
+}
+
+.contact-us input[type="submit"]{
+    margin-top: 12px;
+}
+
+.contact-us li br {
+	display: none;
+}
+
+
+
+
